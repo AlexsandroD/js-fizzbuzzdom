@@ -17,6 +17,8 @@ body{
 
 .row{
     display: flex;
+    flex-basis: calc((100% / 12)*12);
+    max-width: calc((100% / 12)*12);
     width: 80%;
     margin: auto;
     justify-content: space space-around;
