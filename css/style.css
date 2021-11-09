@@ -34,7 +34,7 @@ body{
 
 .box{
     display: flex;
-    width: calc(100% / 7  - 60px);
+    width: calc(100% / 7  - 40px);
     align-items: center;
     justify-content: center;
     height: 100px;
